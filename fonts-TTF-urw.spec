@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Fonty URW w formacie TTF (np. dla GhostPCL-a)
 Name:		fonts-TTF-urwfonts
 Version:	1.41
 Release:	1
-License:	GPL v2
+License:	Alladin Free Public License
 Group:		Fonts
 #Source0:	http://mirror.cs.wisc.edu/pub/mirrors/ghost/AFPL/GhostPCL/urwfonts-%{version}.tar.bz2
 Source0:	http://www.ctan.org/get/nonfree/support/ghostscript/AFPL/GhostPCL/urwfonts-%{version}.tar.bz2
